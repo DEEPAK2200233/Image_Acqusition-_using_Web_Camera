@@ -60,11 +60,15 @@ Anaconda - Python 3.7
 
 ### i) Write the frame as JPG image
 </br>
+![WhatsApp Image 2024-09-24 at 11 51 43_b40b385b](https://github.com/user-attachments/assets/e3b5bab8-3867-47be-bcf1-05f4afc14b2e)
+
 </br>
 
 
 ### ii) Display the video
 </br>
+![WhatsApp Image 2024-09-24 at 11 51 43_b40b385b](https://github.com/user-attachments/assets/82f85d60-9e98-40d7-93ac-f5d071129c92)
+
 </br>
 
 
