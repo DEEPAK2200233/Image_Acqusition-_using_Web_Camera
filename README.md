@@ -68,16 +68,11 @@ Anaconda - Python 3.7
 
 
 ### iii) Display the video by resizing the window
-</br>
-</br>
-
+![WhatsApp Image 2024-09-24 at 11 52 30_42f653ad](https://github.com/user-attachments/assets/166f07a8-e61c-48ec-be50-d08f42078644)
 
 
 ### iv) Rotate and display the video
-</br>
-</br>
-
-
+![WhatsApp Image 2024-09-24 at 11 52 51_6e901d17](https://github.com/user-attachments/assets/ad3edf1c-6038-4611-a1df-fcae9a807139)
 
 
 
